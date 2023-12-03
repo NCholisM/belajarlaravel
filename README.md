@@ -1,5 +1,7 @@
 # LARAVEL 9 SEDERHANA
 
+Proyek ini adalah proyek sederhana yang dibuat dengan menggunakan Laravel 9 untuk melakukan operasi dasar CRUD (Create, Read, Update, Delete) pada data siswa. Proyek ini dilengkapi dengan antarmuka pengguna yang ramah, menggunakan Bootstrap 5 untuk tata letak dan gaya, serta DataTables untuk tampilan tabel data yang interaktif.
+
 ## Screenshot
 
 Halaman Awal :
