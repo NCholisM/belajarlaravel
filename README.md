@@ -4,8 +4,10 @@ Proyek ini adalah proyek sederhana yang dibuat dengan menggunakan Laravel 9 untu
 
 Fitur Utama
 1. Operasi CRUD
+
    Proyek ini memungkinkan pengguna untuk melakukan empat operasi dasar pada data siswa: membuat entri baru, melihat data, mengedit informasi, dan menghapus entri yang tidak diperlukan.
 2. Antarmuka Pengguna Ramah
+
    Antarmuka pengguna proyek dirancang dengan perhatian pada kegunaan dan estetika. Bootstrap 5 digunakan untuk memastikan tata letak yang responsif dan tampilan yang menarik.
 3. Tabel Data Interaktif
 
