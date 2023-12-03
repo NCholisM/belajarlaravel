@@ -8,6 +8,7 @@ Fitur Utama
 2. Antarmuka Pengguna Ramah
    Antarmuka pengguna proyek dirancang dengan perhatian pada kegunaan dan estetika. Bootstrap 5 digunakan untuk memastikan tata letak yang responsif dan tampilan yang menarik.
 3. Tabel Data Interaktif
+
    Pengguna dapat dengan mudah menjelajahi dan mencari data siswa melalui tampilan tabel yang interaktif, diimplementasikan menggunakan DataTables. Fungsionalitas pencarian, pengurutan, dan peninjauan data secara dinamis memastikan pengalaman pengguna yang lebih baik.
 
 ## Screenshot
