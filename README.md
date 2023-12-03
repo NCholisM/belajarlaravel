@@ -2,6 +2,16 @@
 
 Proyek ini adalah proyek sederhana yang dibuat dengan menggunakan Laravel 9 untuk melakukan operasi dasar CRUD (Create, Read, Update, Delete) pada data siswa. Proyek ini dilengkapi dengan antarmuka pengguna yang ramah, menggunakan Bootstrap 5 untuk tata letak dan gaya, serta DataTables untuk tampilan tabel data yang interaktif.
 
+Fitur Utama
+1. Operasi CRUD
+Proyek ini memungkinkan pengguna untuk melakukan empat operasi dasar pada data siswa: membuat entri baru, melihat data, mengedit informasi, dan menghapus entri yang tidak diperlukan.
+
+2. Antarmuka Pengguna Ramah
+Antarmuka pengguna proyek dirancang dengan perhatian pada kegunaan dan estetika. Bootstrap 5 digunakan untuk memastikan tata letak yang responsif dan tampilan yang menarik.
+
+3. Tabel Data Interaktif
+Pengguna dapat dengan mudah menjelajahi dan mencari data siswa melalui tampilan tabel yang interaktif, diimplementasikan menggunakan DataTables. Fungsionalitas pencarian, pengurutan, dan peninjauan data secara dinamis memastikan pengalaman pengguna yang lebih baik.
+
 ## Screenshot
 
 Halaman Awal :
