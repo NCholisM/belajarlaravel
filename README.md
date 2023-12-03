@@ -27,8 +27,7 @@ Show Data :
 
 ## Apa Saja Yang Digunakan
 
--   Postman
+-   Laravel 9
 -   XAMPP (Database MySQL)
--   CodeIgniter 3
--   Bootstrap 4
+-   Bootstrap 5
 -   DataTables
